@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://farishan.github.io/categories/</loc>
+    <loc>https://farishan.github.io/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://farishan.github.io/</loc>
+    <loc>https://farishan.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farishan.github.io/categories/</loc>
   </url>
   
   <url>
@@ -20,6 +26,10 @@
   
   <url>
     <loc>https://farishan.github.io/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://farishan.github.io/search/</loc>
   </url>
   
   <url>

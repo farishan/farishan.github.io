@@ -7,9 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2020</copyright>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://farishan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://farishan.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://farishan.github.io/about/</guid>
+      <description>Halo Saya Faris Han. Saat ini bekerja sebagai frontend web developer di Bandung. Sedang belajar blogging dengan Nuxt.js untuk mencatat hal-hal yang lewat di pikiran, sekaligus mengasah kemampuan web dev.
+Pernah sekolah musik dan mengikuti bootcamp IT. Sangat terbuka untuk berdiskusi mengenai apapun.
+Silakan mengirim halo ke farishanugraha@gmail.com</description>
+    </item>
     
     <item>
       <title>Halo</title>
@@ -34,6 +46,15 @@ But without letting out even a single little sound,
 I’m heading towards the sea
 I wonder how many times I’ve been saved by pretending that everything is okay
 -wanima</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://farishan.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://farishan.github.io/search/</guid>
+      <description>          </description>
     </item>
     
     <item>
