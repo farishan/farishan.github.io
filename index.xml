@@ -13,6 +13,18 @@
     
     
     <item>
+      <title>Kenapa Hugo</title>
+      <link>https://farishan.github.io/posts/kenapa-hugo/</link>
+      <pubDate>Fri, 08 May 2020 22:43:10 +0700</pubDate>
+      
+      <guid>https://farishan.github.io/posts/kenapa-hugo/</guid>
+      <description>Website ini dibuat menggunakan Hugo.
+Hugo mengklaim bahwa mereka adalah The world’s fastest framework for building websites, salah satu dari open source static site generator terpopuler. Terkenal dengan kecepatan tinggi dan fleksibilitas.
+Mereka juga mengklaim menggunakan Hugo bisa membuat proses pengembangan website menjadi menyenangkan kembali, karena itulah saya memilih Hugo.
+Selama ini saya belajar web development dengan HTML, CSS, dan JavaScript, lalu ke beberapa framework JS yang cukup terkenal dan punya nama seperti React dan Vue.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://farishan.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
