@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Faris Han&#39;s</title>
+    <link>https://farishan.github.io/tags/blog/</link>
+    <description>Recent content in Blog on Faris Han&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2020</copyright>
+    <lastBuildDate>Fri, 08 May 2020 22:43:10 +0700</lastBuildDate>
+    
+	<atom:link href="https://farishan.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kenapa Hugo</title>
+      <link>https://farishan.github.io/posts/kenapa-hugo/</link>
+      <pubDate>Fri, 08 May 2020 22:43:10 +0700</pubDate>
+      
+      <guid>https://farishan.github.io/posts/kenapa-hugo/</guid>
+      <description>Website ini dibuat menggunakan Hugo.
+Hugo mengklaim bahwa mereka adalah The world’s fastest framework for building websites, salah satu dari open source static site generator terpopuler. Terkenal dengan kecepatan tinggi dan fleksibilitas.
+Mereka juga mengklaim menggunakan Hugo bisa membuat proses pengembangan website menjadi menyenangkan kembali, karena itulah saya memilih Hugo.
+Selama ini saya belajar web development dengan HTML, CSS, dan JavaScript, lalu ke beberapa framework JS yang cukup terkenal dan punya nama seperti React dan Vue.</description>
+    </item>
+    
+  </channel>
+</rss>
