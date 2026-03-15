@@ -1,0 +1,2 @@
+- clone Ragnarok Online using all the resources and capabilites I have.
+  - https://docs.google.com/document/d/19bODuiqqVNpIbt_bLHuRYeNQLUv_gIzvkQhzm7T5zDg/edit?tab=t.0
